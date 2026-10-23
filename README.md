@@ -17,5 +17,5 @@ The corrected values for Table 2 in the published paper are provided below:
 | DRHGCN | 6 | 85 | 20 | 83 | 11 | 79 |
 | HCCF | 1 | 55 | 23 | 82 | 21 | 81 |
 | HDGAT | 14 | 75 | 16 | 74 | 12 | 73 |
-| DRGBCN | 1 | 56 | 1 | 49 | 1 | 53 |
+| DRGBCN | 1 | 56 | 1 | 51 | 1 | 53 |
 | Our | **50** | **94** | **51** | **95** | **50** | **94** |
